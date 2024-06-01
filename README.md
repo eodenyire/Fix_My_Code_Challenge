@@ -8,8 +8,8 @@ This repository contains solutions to the "Fix My Code" challenge in the ALX Sof
 - [Task 2: Sort](#task-2-sort)
 - [Task 3: User Password](#task-3-user-password)
 - [Task 4: Double Linked List](#task-4-double-linked-list)
-- [Author](#Emmanuel Odenyire Anyira)
-- [Contact](#eodenyire@gmail.com)
+- [Author: Emmanuel Odemyire Anyira](#Emmanuel Odenyire Anyira)
+- [Contact: eodenyire@gmail.com](#eodenyire@gmail.com)
 
 ## Task 0: FizzBuzz
 **File:** `0-fizzbuzz.py`
